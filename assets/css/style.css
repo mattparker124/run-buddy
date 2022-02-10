@@ -128,6 +128,14 @@ section {
     border-bottom: 3px solid;
 }
 
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
+}
+
 .intro {
     text-align: center;
 }
